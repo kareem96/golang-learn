@@ -1,0 +1,6 @@
+time="2024-07-16T15:25:47+07:00" level=info msg="Hello Logging"
+time="2024-07-16T15:25:47+07:00" level=warning msg="Hello Logging"
+time="2024-07-16T15:25:47+07:00" level=error msg="Hello Logging"
+time="2024-07-16T15:25:55+07:00" level=info msg="Hello Logging"
+time="2024-07-16T15:25:55+07:00" level=warning msg="Hello Logging"
+time="2024-07-16T15:25:55+07:00" level=error msg="Hello Logging"
